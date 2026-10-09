@@ -3,10 +3,11 @@
   
   Conta também, logo abaixo, com a projeção por diferentes anos que esses investimentos renderiam. 
   
-  Depois temos o simulador de investimentos de acordo com o perfil do investidor: conservador, moderado e agressivo, que faz o cálculo de quanto o investidor deve investir de acordo os valores de investimentos mensais já sugeridos. Também conta com uma breve explicação de cada investimento FIIs.  
+  Depois temos o simulador de investimentos de acordo com o perfil do investidor: conservador, moderado e agressivo, que faz o cálculo de quanto o investidor deve investir. Também conta com uma breve explicação de cada investimento FIIs.  
 
 <img width="600" height="221" alt="image" src="https://github.com/user-attachments/assets/a196f4e3-a829-46b7-a815-528b71b8f4ac" />
 <img width="600" height="221" alt="image" src="https://github.com/user-attachments/assets/81150487-37db-42e8-8ff2-81b8a21cf9ae" />
+<img width="250" height="312" alt="image" src="https://github.com/user-attachments/assets/2837c99e-61cc-4d89-90c1-f95bef346aab" />
 
   Para calcular os valores de patrimônio acumulado e rendimento na carteira foi usado a fórmula VF. Para fazer os cálculos correspondentes ao perfil do investidor e o box de informações foi usada a fórmula PROCV, tornado as planilhas mais interativas.
 
